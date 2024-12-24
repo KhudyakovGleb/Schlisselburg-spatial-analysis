@@ -1,0 +1,9 @@
+numpy==1.26.4
+pandas==2.2.3
+geopandas==0.14.4
+blocksnet==0.0.12
+iduedu==0.1.2
+shapely==2.0.1
+osmnx==1.9.4
+matplotlib==3.7.1
+
